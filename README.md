@@ -1,7 +1,13 @@
 # DeepLearingProject
 
+## Project linear_regression
 
-## Project movie_website 
+source [linear_regression_project](linear_project)
+
+[submit.zip](linear_project/submit.zip)
+
+
+## Project movie_website
 
 source [movie_website](movie_website)
 
