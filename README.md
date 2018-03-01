@@ -1,5 +1,11 @@
 # DeepLearingProject
 
+## Project DataAnalysis
+
+source [DataAnalysis](DataAnalysis)
+
+[DataAnalysis.zip](DataAnalysis/DataAnalysis.zip)
+
 ## Project linear_regression
 
 source [linear_regression_project](linear_project)
